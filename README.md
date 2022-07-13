@@ -1,4 +1,4 @@
-## Follow below to run the project
+# Follow below to run the project
 ```sh
 composer install
 cp .env.example .env
